@@ -1,0 +1,82 @@
+.navbar-property{
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: 30px;
+    padding-top: 15px;
+    color: antiquewhite;
+    background-color: rgb(222, 20, 31);
+    height: 60px; 
+    width: 100%;
+    border: 5px solid rgb(90, 21, 21);
+    display: flex;
+    justify-content: space-around;
+    transition:2s;
+    position: fixed;
+    
+}
+
+
+p {
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: 25px;
+    color: antiquewhite;
+    padding: 60px;
+    background-color:  rgb(222, 20, 31);
+    border: 5px solid  rgb(90, 21, 21) ;
+}
+
+
+.box-recipe{
+    font-family:'Unbounded', 'cursive'; 
+    background-color: rgb(222, 20, 31);
+    width: 400px;
+    margin-left: 5px;
+    border:3px solid  rgb(90, 21, 21);
+    transition:1s;
+
+}
+
+.box-recipe:hover{
+    font-family:'Unbounded', 'cursive'; 
+    background-color:rgb(255, 208, 0);
+    width: 400px;
+    margin-left: 5px;
+    border:3px solid  rgb(90, 21, 21);
+    transform:scale(100px);
+      
+}
+
+.footer {
+    background-color: rgb(222, 20, 31);
+}
+
+
+
+.flex {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.box-model{
+           padding: 30px;
+           
+}
+
+
+.footer {
+    
+    height:200px;
+    background-color: rgba(0, 0, 0, 0.906);
+    border:5px solid rgb(187, 163, 163) ;
+}
+
+.contact{
+    margin-top: 20px;
+    margin-left:30px;
+    font-family: 'Nanum Gothic', sans-serif;
+    color: antiquewhite;
+    font-size: 20px;
+}
+
+
+
